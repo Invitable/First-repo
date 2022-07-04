@@ -9,3 +9,8 @@ h1{
 .p2{
     color: rgb(140, 136, 31);
 }
+.image{
+    height: 300px;
+    width: 400px;
+    border: 5px solid black;
+}
